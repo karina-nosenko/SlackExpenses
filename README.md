@@ -1,5 +1,5 @@
 <h1>Rentbal Slack Bot</h1>
-Slack slash command created using AWS cloud architecture and enables to keep trach on your and others debts.<br>
+Slack slash command created using AWS cloud architecture and enables to keep track on your and others debts.<br>
 
 <h3>Technologies</h3>
 <ul>
